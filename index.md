@@ -6,7 +6,19 @@ toc: true
 
 # Methodology
 
-Some info about how the results were gathered.
+* This tree survey was carried out by Julian Everett over two days at the end of November 2021.  It updates a previous tree survey which was 
+conducted during an earlier part of the year in 2012. 
+* The location of each tree was recorded as OSGL and lat/long using the Grid Location GB iPhone application with a 4G signal under clear weather conditions. 
+* Girth measurements were taken using a Stanley 30m surveying tape measure in metric units. They have been recorded in centimetres, but given the 
+variability in trunk profile amplified by the large girth of the trees, the error margin in the repeatability of these measurements is likely 
+to be significantly greater than that level of precision.
+* The widespread presence of arils underneath female trees at this time of year greatly helped in confirming the sex of each tree.
+* Tree identity was cross-referenced against the 2012 survey, however the positions did not match up fully. As a result, identity was 
+triangulated via the additional use of proximal girth measurements. 
+* For the same reason, new synthetic identifiers have been assigned to each tree: factors such as weather conditions and GPS signal 
+strength variability clearly impact the repeatability of geolocation measurement, so despite its obvious apparent suitability in practice geolocation does not seem such 
+a good choice for use as a permanent tree identifier.
+
 
 # Survey Results
 
