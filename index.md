@@ -5,8 +5,8 @@ toc: true
 ---
 
 * [Methodology](#metholody)
-* [Survey Results](#survey-results)
 * [Tree Map](#tree-map)
+* [Survey Results](#survey-results)
 
 # Methodology
 
@@ -23,6 +23,11 @@ For the same reason, new synthetic identifiers have been assigned to each tree: 
 strength variability clearly impact the repeatability of geolocation measurement, so despite its obvious apparent suitability in practice geolocation does not seem such 
 a good choice for use as a permanent tree identifier.
 
+# Tree Map
+
+<div>
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1u6w9P5REw0ocLPKfV9Auj4GgfhKzx4BV" width="800" height="800"></iframe>
+</div>
 
 # Survey Results
 
@@ -77,9 +82,4 @@ Click the Tree Id to see the full record for each tree with photographic evidenc
 |[DG042](pages/dg042)  |TQ1584053036    |51.264713 -0.340973  |-                   |F  |2             |2          |           |approx 2.40 semicircumference                                   |50cm                        |Very dense growth to far side of bole, could not pass surveying tape measure through it, so measured the estimated semicircumference which is accessible                                 |     |
 
 
-# Tree Map
-
-<div>
-<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1u6w9P5REw0ocLPKfV9Auj4GgfhKzx4BV" width="800" height="800"></iframe>
-</div>
 
