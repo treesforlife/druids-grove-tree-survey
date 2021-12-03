@@ -1,0 +1,23 @@
+trees:
+  - title: Trees
+    children:
+      - title: "dg000"
+        url: ./pages/dg000
+      - title: "dg001"
+        url: ./pages/dg001
+      - title: "dg002"
+        url: ./pages/dg002
+      - title: "dg003"
+        url: ./pages/dg003/
+      - title: "dg004"
+        url: /pages/dg004/
+      - title: "dg005"
+        url: /pages/dg005/
+      - title: "dg006"
+        url: /pages/dg006/
+      - title: "dg007"
+        url: /pages/dg007/
+      - title: "dg008"
+        url: /pages/dg008/
+      - title: "dg009"
+        url: /pages/dg009/
