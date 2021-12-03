@@ -26,7 +26,7 @@ a good choice for use as a permanent tree identifier.
 # Tree Map
 
 <div>
-<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1u6w9P5REw0ocLPKfV9Auj4GgfhKzx4BV" width="800" height="800"></iframe>
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1u6w9P5REw0ocLPKfV9Auj4GgfhKzx4BV" width="100%" height="800"></iframe>
 </div>
 
 # Survey Results

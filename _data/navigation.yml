@@ -3,6 +3,8 @@ trees:
     children:
       - title: "Home"
         url: ./
+      - title: "Map"
+        url: ./
   - title: Trees
     children:
       - title: "dg000"
