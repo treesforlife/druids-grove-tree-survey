@@ -10,6 +10,7 @@ Some info about how the results were gathered.
 
 # Survey Results
 
+Click the Tree Id to see the full record for each tree with photographic evidence.
 
 |Tree ID|OS Grid Location|Lat/Long             |(Original 2012 OSGL)|Sex|Canopy Density|Leaf Litter|Girth Ft   |Girth M                                                         |Height measured             |Comments                                                                                                                                                                                 |Notes|
 |-------|----------------|---------------------|--------------------|---|--------------|-----------|-----------|----------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
