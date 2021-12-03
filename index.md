@@ -62,4 +62,4 @@ Some info about how the results were gathered.
 
 # Tree Map
 
-<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1u6w9P5REw0ocLPKfV9Auj4GgfhKzx4BV" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1u6w9P5REw0ocLPKfV9Auj4GgfhKzx4BV" width="640" height="800"></iframe>
