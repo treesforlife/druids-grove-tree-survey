@@ -63,4 +63,6 @@ Click the Tree Id to see the full record for each tree with photographic evidenc
 
 # Tree Map
 
+<div>
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1u6w9P5REw0ocLPKfV9Auj4GgfhKzx4BV" width="800" height="800"></iframe>
+</div>
