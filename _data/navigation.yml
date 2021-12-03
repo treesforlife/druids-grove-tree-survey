@@ -4,7 +4,7 @@ trees:
       - title: "Home"
         url: ./
       - title: "Map"
-        url: ./
+        url: ./#tree-map
   - title: Trees
     children:
       - title: "dg000"
