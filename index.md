@@ -10,7 +10,7 @@ toc: true
 
 # Methodology
 
-This tree survey was carried out by Julian Everett over two days at the end of November 2021.  It updates a previous tree survey which was 
+This tree survey was carried out over two days at the end of November 2021.  It updates a previous tree survey which was 
 conducted during an earlier part of the year in 2012. 
 The location of each tree was recorded as OSGL and lat/long using the Grid Location GB iPhone application with a 4G signal under clear weather conditions. 
 Girth measurements were taken using a Stanley 30m surveying tape measure in metric units. They have been recorded in centimetres, but given the 
