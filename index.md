@@ -1,8 +1,12 @@
 ---
 layout: splash
 classes: wide
-title: Survey Results
 ---
+
+# Methodology
+
+
+# Survey Results
 
 
 |Tree ID|OS Grid Location|Lat/Long             |(Original 2012 OSGL)|Sex|Canopy Density|Leaf Litter|Girth Ft   |Girth M                                                         |Height measured             |Comments                                                                                                                                                                                 |Notes|
@@ -52,3 +56,8 @@ title: Survey Results
 |DG040  |TQ1590353110    |51.265373 -0.340104  |-                   |M  |2             |2          |           |3.19                                                            |Ground level at top of slope|Further away from path, a pair of heaved yews (larger measured) with dense branching                                                                                                     |     |
 |DG041  |TQ1586153055    |51.264879 -0.340727  |-                   |M  |2             |2          |           |3.23                                                            |50cm                        |                                                                                                                                                                                         |     |
 |DG042  |TQ1584053036    |51.264713 -0.340973  |-                   |F  |2             |2          |           |approx 2.40 semicircumference                                   |50cm                        |Very dense growth to far side of bole, could not pass surveying tape measure through it, so measured the estimated semicircumference which is accessible                                 |     |
+
+
+# Tree Map
+
+
