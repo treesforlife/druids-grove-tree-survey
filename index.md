@@ -4,6 +4,10 @@ classes: wide
 toc: true
 ---
 
+[Methodology](#metholody)
+[Survey Results](#survey-results)
+[Tree Map](#tree-map)
+
 # Methodology
 
 * This tree survey was carried out by Julian Everett over two days at the end of November 2021.  It updates a previous tree survey which was 
