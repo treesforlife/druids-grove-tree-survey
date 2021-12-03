@@ -1,5 +1,10 @@
 trees:
-  - children:
+  - title: Site
+    children:
+      - title: "Home"
+        url: ./
+  - title: Trees
+    children:
       - title: "dg000"
         url: ./pages/dg000
       - title: "dg001"
