@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Tree Survey Results
+layout: wide
+title: Survey Results
 ---
 
 ||Table heading A|| Table heading B||
