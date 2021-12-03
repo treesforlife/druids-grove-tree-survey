@@ -1,5 +1,6 @@
 ---
 layout: home
+classes: wide
 title: Survey Results
 ---
 
