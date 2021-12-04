@@ -85,7 +85,5 @@ def create_img(tree_id, filename):
   img = img + '    title: "Tree Ref '+tree_id+'"\n'
   return img
 
-
-
 main()
 print('done.')
