@@ -47,7 +47,7 @@ trees:
         url: /pages/dg018/
       - title: "dg019"
         url: /pages/dg019/
-     - title: "dg020"
+      - title: "dg020"
         url: ./pages/dg020
       - title: "dg021"
         url: ./pages/dg021
@@ -67,7 +67,7 @@ trees:
         url: /pages/dg028/
       - title: "dg029"
         url: /pages/dg029/
-     - title: "dg030"
+      - title: "dg030"
         url: ./pages/dg030
       - title: "dg031"
         url: ./pages/dg031
@@ -87,10 +87,9 @@ trees:
         url: /pages/dg038/
       - title: "dg039"
         url: /pages/dg039/
-     - title: "dg040"
+      - title: "dg040"
         url: ./pages/dg040
       - title: "dg041"
         url: ./pages/dg041
       - title: "dg042"
         url: ./pages/dg042
-
