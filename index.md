@@ -4,7 +4,7 @@ classes: wide
 toc: true
 ---
 
-Author: Julian Everett
+Author: Julian Everett<br>
 Date: 03/12/2021
 
 * [Methodology](#metholody)
