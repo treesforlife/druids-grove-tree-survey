@@ -4,9 +4,6 @@ classes: wide
 toc: true
 ---
 
-Author: Julian Everett<br>
-Date: 03/12/2021
-
 * [Methodology](#metholody)
 * [Survey Results](#survey-results)
 * [Tree Map](#tree-map)
